@@ -15,7 +15,7 @@ Mastering the use of lists and loops is one of the 5 fundamental skills of build
 2. Conditionals.
 3. Lists.
 4. Loops.
-5. `Functions`.
+5. Functions.
 
 ## What are Functions?
 
